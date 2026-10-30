@@ -6,11 +6,11 @@ I build scalable web apps, REST APIs and AI-powered products, from the backend a
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript (ES6), TypeScript, PHP, HTML, CSS/SASS
-**Frameworks:** FastAPI, Flask, Django, React, Redux, React Native, Electron, Node.js, Express, Laravel
-**AI:** LangGraph, RAG, LLMs (Gemini), pgvector, prompt engineering
-**Databases:** PostgreSQL, MySQL, MongoDB, Firebase, Supabase
-**DevOps & Cloud:** Docker, Nginx, Gunicorn, PM2, GitHub Actions, AWS (EC2, S3, Amplify), DigitalOcean, Vercel, Render
+- **Languages:** Python, JavaScript (ES6), TypeScript, PHP, HTML, CSS/SASS
+- **Frameworks:** FastAPI, Flask, Django, React, Redux, React Native, Electron, Node.js, Express, Laravel
+- **AI:** LangGraph, RAG, LLMs (Gemini), pgvector, prompt engineering
+- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase, Supabase
+- **DevOps & Cloud:** Docker, Nginx, Gunicorn, PM2, GitHub Actions, AWS (EC2, S3, Amplify), DigitalOcean, Vercel, Render
 
 ## 📫 Connect
 
